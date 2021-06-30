@@ -1,4 +1,4 @@
-- 👋 Hey there, I’m Swati Jindal
+ 👋 Hey there, I’m Swati Jindal!
 - I’m B.Tech ECE sophomore from MNNIT Allahabad interested in innovation.
 
 <!---
