@@ -2,8 +2,9 @@
 <p align="center">
 
 </p>
-<p> 💻I’m B.Tech ECE sophomore from MNNIT Allahabad, interested in innovation. </br>
-📫 How to reach me: swatijindal2018@gmail.com </br>
+<p> 
+💻I’m B.Tech ECE sophomore from MNNIT Allahabad, interested in innovation. </br>
+<!---📫 How to reach me:  swatijindal2018@gmail.com </br> --->
 
 </p>
 My Github Stats:
