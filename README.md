@@ -7,7 +7,7 @@
 
 </p>
 <p> 
-💻I’m B.Tech ECE Pre-Final year Student from MNNIT Allahabad, passionate about coding and development. </br>
+💻I’m B.Tech ECE Student from MNNIT Allahabad, passionate about coding and development. </br>
 ⚡ Interested in working alongside like minded people enthusiastic about FullStack Development, Software Development or Enthusiastic for innovations.</br>
 💡I'm on track for enhancing my knowledge about Data Structures and Algorithms. </br>
 ✉️ You can reach out to me via email at swatijindal2018@gmail.com.
