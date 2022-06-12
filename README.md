@@ -1,4 +1,4 @@
- <h1 align="center"> Hey there , I'm Swati Jindal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"> </br></h1>
+ <h1 align="center"> Hey there , I'm Swati Jindal <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="mysql" width="40" height="35"/> </br></h1>
 <h3 align="center"> </h3>
 
 
